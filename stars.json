@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "DapperLib/Dapper",
+    "stargazers_count": 15082,
+    "open_issues_count": 364,
+    "forks_count": 3541
+  },
+  {
     "full_name": "ScalableOrg/technical-framework",
     "stargazers_count": 56,
     "open_issues_count": 2,
@@ -13,25 +19,25 @@
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5025,
+    "stargazers_count": 5026,
     "open_issues_count": 44,
     "forks_count": 282
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 21636,
+    "stargazers_count": 21648,
     "open_issues_count": 66,
-    "forks_count": 685
+    "forks_count": 686
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 11659,
+    "stargazers_count": 11664,
     "open_issues_count": 1,
     "forks_count": 681
   },
   {
     "full_name": "vueuse/motion",
-    "stargazers_count": 942,
+    "stargazers_count": 946,
     "open_issues_count": 20,
     "forks_count": 38
   },
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 70177,
-    "open_issues_count": 31,
-    "forks_count": 22738
+    "stargazers_count": 70204,
+    "open_issues_count": 30,
+    "forks_count": 22748
   },
   {
     "full_name": "cloudinary-labs/cloudinary-laravel",
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "oruga-ui/oruga",
-    "stargazers_count": 777,
-    "open_issues_count": 31,
+    "stargazers_count": 780,
+    "open_issues_count": 32,
     "forks_count": 111
   },
   {
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "transitive-bullshit/create-react-library",
-    "stargazers_count": 4698,
+    "stargazers_count": 4700,
     "open_issues_count": 118,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 10581,
+    "stargazers_count": 10583,
     "open_issues_count": 14,
     "forks_count": 626
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 67269,
-    "open_issues_count": 1064,
-    "forks_count": 7226
+    "stargazers_count": 67375,
+    "open_issues_count": 1066,
+    "forks_count": 7230
   },
   {
     "full_name": "jitsi/jigmi",
@@ -153,11 +159,11 @@
     "full_name": "project-travel-mate/Travel-Mate",
     "stargazers_count": 1200,
     "open_issues_count": 24,
-    "forks_count": 879
+    "forks_count": 880
   },
   {
     "full_name": "naman14/Timber",
-    "stargazers_count": 6717,
+    "stargazers_count": 6719,
     "open_issues_count": 209,
     "forks_count": 2156
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 983,
     "open_issues_count": 9,
     "forks_count": 355
-  },
-  {
-    "full_name": "kantologist/kantologist.github.io",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
