@@ -7,15 +7,15 @@
   },
   {
     "full_name": "tech-systems/panes",
-    "stargazers_count": 665,
+    "stargazers_count": 666,
     "open_issues_count": 20,
     "forks_count": 40
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 17210,
+    "stargazers_count": 17214,
     "open_issues_count": 482,
-    "forks_count": 3641
+    "forks_count": 3642
   },
   {
     "full_name": "ScalableOrg/technical-framework",
@@ -26,31 +26,31 @@
   {
     "full_name": "Qoraiche/laravel-mail-editor",
     "stargazers_count": 2076,
-    "open_issues_count": 48,
-    "forks_count": 251
+    "open_issues_count": 1,
+    "forks_count": 252
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5644,
+    "stargazers_count": 5646,
     "open_issues_count": 52,
     "forks_count": 299
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 29553,
+    "stargazers_count": 29567,
     "open_issues_count": 128,
-    "forks_count": 1426
+    "forks_count": 1429
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 25015,
+    "stargazers_count": 25030,
     "open_issues_count": 6,
-    "forks_count": 1487
+    "forks_count": 1488
   },
   {
     "full_name": "vueuse/motion",
     "stargazers_count": 2088,
-    "open_issues_count": 27,
+    "open_issues_count": 29,
     "forks_count": 73
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 77088,
+    "stargazers_count": 77120,
     "open_issues_count": 30,
-    "forks_count": 23888
+    "forks_count": 23885
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
@@ -81,7 +81,7 @@
     "full_name": "getcandy/candy-api",
     "stargazers_count": 443,
     "open_issues_count": 12,
-    "forks_count": 116
+    "forks_count": 115
   },
   {
     "full_name": "samturrell/nuxt-lighthouse-module",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "oruga-ui/oruga",
-    "stargazers_count": 1098,
-    "open_issues_count": 56,
+    "stargazers_count": 1101,
+    "open_issues_count": 58,
     "forks_count": 174
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13204,
+    "stargazers_count": 13208,
     "open_issues_count": 19,
     "forks_count": 728
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 103608,
-    "open_issues_count": 1847,
-    "forks_count": 10082
+    "stargazers_count": 103789,
+    "open_issues_count": 1853,
+    "forks_count": 10091
   },
   {
     "full_name": "jitsi/jigmi",
@@ -153,7 +153,7 @@
     "full_name": "hilongjw/vue-progressbar",
     "stargazers_count": 1458,
     "open_issues_count": 45,
-    "forks_count": 161
+    "forks_count": 160
   },
   {
     "full_name": "hng-tech/kidstories",
