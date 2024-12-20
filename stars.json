@@ -13,9 +13,9 @@
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 17626,
+    "stargazers_count": 17636,
     "open_issues_count": 505,
-    "forks_count": 3679
+    "forks_count": 3678
   },
   {
     "full_name": "ScalableOrg/technical-framework",
@@ -27,30 +27,30 @@
     "full_name": "Qoraiche/laravel-mail-editor",
     "stargazers_count": 2088,
     "open_issues_count": 1,
-    "forks_count": 262
+    "forks_count": 263
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5760,
+    "stargazers_count": 5762,
     "open_issues_count": 52,
     "forks_count": 304
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 31899,
+    "stargazers_count": 31917,
     "open_issues_count": 132,
     "forks_count": 1647
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 26031,
+    "stargazers_count": 26046,
     "open_issues_count": 8,
-    "forks_count": 1544
+    "forks_count": 1543
   },
   {
     "full_name": "vueuse/motion",
-    "stargazers_count": 2411,
-    "open_issues_count": 45,
+    "stargazers_count": 2416,
+    "open_issues_count": 44,
     "forks_count": 83
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 79062,
+    "stargazers_count": 79097,
     "open_issues_count": 30,
-    "forks_count": 24109
+    "forks_count": 24113
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
-    "stargazers_count": 282,
+    "stargazers_count": 284,
     "open_issues_count": 7,
     "forks_count": 71
   },
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "oruga-ui/oruga",
-    "stargazers_count": 1133,
-    "open_issues_count": 36,
+    "stargazers_count": 1134,
+    "open_issues_count": 33,
     "forks_count": 172
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "theomessin/vue-chat-scroll",
-    "stargazers_count": 573,
+    "stargazers_count": 572,
     "open_issues_count": 30,
     "forks_count": 75
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13541,
+    "stargazers_count": 13549,
     "open_issues_count": 21,
     "forks_count": 748
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 114409,
-    "open_issues_count": 2157,
-    "forks_count": 10879
+    "stargazers_count": 114597,
+    "open_issues_count": 2159,
+    "forks_count": 10891
   },
   {
     "full_name": "jitsi/jigmi",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "hilongjw/vue-progressbar",
-    "stargazers_count": 1461,
+    "stargazers_count": 1462,
     "open_issues_count": 45,
     "forks_count": 162
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "project-travel-mate/Travel-Mate",
-    "stargazers_count": 1302,
+    "stargazers_count": 1303,
     "open_issues_count": 28,
     "forks_count": 907
   },
@@ -177,6 +177,6 @@
     "full_name": "naman14/Timber",
     "stargazers_count": 7005,
     "open_issues_count": 212,
-    "forks_count": 2155
+    "forks_count": 2154
   }
 ]
