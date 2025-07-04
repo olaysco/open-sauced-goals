@@ -1,9 +1,9 @@
 [
   {
     "full_name": "GoogleCloudPlatform/microservices-demo",
-    "stargazers_count": 18452,
-    "open_issues_count": 55,
-    "forks_count": 8364
+    "stargazers_count": 18466,
+    "open_issues_count": 47,
+    "forks_count": 8376
   },
   {
     "full_name": "olaysco/go-ots",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 17968,
+    "stargazers_count": 17970,
     "open_issues_count": 524,
-    "forks_count": 3687
+    "forks_count": 3685
   },
   {
     "full_name": "ScalableOrg/technical-framework",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5825,
-    "open_issues_count": 52,
+    "stargazers_count": 5827,
+    "open_issues_count": 53,
     "forks_count": 305
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 34464,
+    "stargazers_count": 34588,
     "open_issues_count": 139,
-    "forks_count": 1814
+    "forks_count": 1817
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 31181,
+    "stargazers_count": 31203,
     "open_issues_count": 0,
-    "forks_count": 1913
+    "forks_count": 1915
   },
   {
     "full_name": "vueuse/motion",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 81363,
+    "stargazers_count": 81388,
     "open_issues_count": 31,
-    "forks_count": 24402
+    "forks_count": 24410
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 1,
     "forks_count": 77
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "transitive-bullshit/create-react-library",
-    "stargazers_count": 4779,
+    "stargazers_count": 4780,
     "open_issues_count": 126,
     "forks_count": 300
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 124442,
-    "open_issues_count": 2445,
-    "forks_count": 11647
+    "stargazers_count": 124585,
+    "open_issues_count": 2451,
+    "forks_count": 11658
   },
   {
     "full_name": "jitsi/jigmi",
