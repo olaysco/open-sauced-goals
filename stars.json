@@ -1,9 +1,9 @@
 [
   {
     "full_name": "GoogleCloudPlatform/microservices-demo",
-    "stargazers_count": 18653,
-    "open_issues_count": 49,
-    "forks_count": 8547
+    "stargazers_count": 18671,
+    "open_issues_count": 47,
+    "forks_count": 8557
   },
   {
     "full_name": "olaysco/go-ots",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "tech-systems/panes",
-    "stargazers_count": 720,
+    "stargazers_count": 721,
     "open_issues_count": 31,
     "forks_count": 41
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 18002,
-    "open_issues_count": 526,
-    "forks_count": 3681
+    "stargazers_count": 18006,
+    "open_issues_count": 527,
+    "forks_count": 3675
   },
   {
     "full_name": "ScalableOrg/technical-framework",
@@ -31,31 +31,31 @@
   },
   {
     "full_name": "Qoraiche/laravel-mail-editor",
-    "stargazers_count": 2094,
+    "stargazers_count": 2095,
     "open_issues_count": 2,
     "forks_count": 282
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5837,
+    "stargazers_count": 5840,
     "open_issues_count": 51,
-    "forks_count": 309
+    "forks_count": 311
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 35104,
+    "stargazers_count": 35150,
     "open_issues_count": 141,
-    "forks_count": 1843
+    "forks_count": 1845
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 31387,
+    "stargazers_count": 31405,
     "open_issues_count": 0,
-    "forks_count": 1928
+    "forks_count": 1929
   },
   {
     "full_name": "vueuse/motion",
-    "stargazers_count": 2647,
+    "stargazers_count": 2649,
     "open_issues_count": 48,
     "forks_count": 94
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 81720,
+    "stargazers_count": 81743,
     "open_issues_count": 31,
-    "forks_count": 24439
+    "forks_count": 24444
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
-    "stargazers_count": 315,
+    "stargazers_count": 314,
     "open_issues_count": 1,
     "forks_count": 78
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13859,
+    "stargazers_count": 13858,
     "open_issues_count": 24,
-    "forks_count": 762
+    "forks_count": 764
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 126064,
-    "open_issues_count": 2506,
-    "forks_count": 11805
+    "stargazers_count": 126207,
+    "open_issues_count": 2508,
+    "forks_count": 11815
   },
   {
     "full_name": "jitsi/jigmi",
@@ -176,7 +176,7 @@
   {
     "full_name": "project-travel-mate/Travel-Mate",
     "stargazers_count": 1325,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 929
   }
 ]
