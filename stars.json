@@ -7,9 +7,9 @@
   },
   {
     "full_name": "GoogleCloudPlatform/microservices-demo",
-    "stargazers_count": 18872,
+    "stargazers_count": 18899,
     "open_issues_count": 51,
-    "forks_count": 8680
+    "forks_count": 8703
   },
   {
     "full_name": "tech-systems/panes",
@@ -19,49 +19,49 @@
   },
   {
     "full_name": "DapperLib/Dapper",
-    "stargazers_count": 18039,
+    "stargazers_count": 18044,
     "open_issues_count": 528,
     "forks_count": 3677
   },
   {
     "full_name": "ScalableOrg/technical-framework",
-    "stargazers_count": 64,
+    "stargazers_count": 63,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "Qoraiche/laravel-mail-editor",
-    "stargazers_count": 2098,
+    "stargazers_count": 2099,
     "open_issues_count": 2,
     "forks_count": 285
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 5852,
-    "open_issues_count": 52,
-    "forks_count": 308
+    "stargazers_count": 5859,
+    "open_issues_count": 54,
+    "forks_count": 309
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 35517,
+    "stargazers_count": 35580,
     "open_issues_count": 142,
-    "forks_count": 1858
+    "forks_count": 1860
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 31510,
+    "stargazers_count": 31531,
     "open_issues_count": 0,
-    "forks_count": 1937
+    "forks_count": 1939
   },
   {
     "full_name": "vueuse/motion",
-    "stargazers_count": 2657,
+    "stargazers_count": 2660,
     "open_issues_count": 48,
     "forks_count": 94
   },
   {
     "full_name": "posva/vue-motion",
-    "stargazers_count": 384,
+    "stargazers_count": 385,
     "open_issues_count": 7,
     "forks_count": 16
   },
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 81963,
-    "open_issues_count": 32,
+    "stargazers_count": 81995,
+    "open_issues_count": 31,
     "forks_count": 24454
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
     "stargazers_count": 319,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 78
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "oruga-ui/oruga",
-    "stargazers_count": 1158,
-    "open_issues_count": 26,
-    "forks_count": 172
+    "stargazers_count": 1159,
+    "open_issues_count": 25,
+    "forks_count": 173
   },
   {
     "full_name": "ichtrojan/fragrance",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 13863,
+    "stargazers_count": 13861,
     "open_issues_count": 25,
     "forks_count": 763
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 127229,
-    "open_issues_count": 2517,
-    "forks_count": 11924
+    "stargazers_count": 127390,
+    "open_issues_count": 2520,
+    "forks_count": 11937
   },
   {
     "full_name": "jitsi/jigmi",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "project-travel-mate/Travel-Mate",
-    "stargazers_count": 1326,
+    "stargazers_count": 1327,
     "open_issues_count": 30,
     "forks_count": 929
   }
