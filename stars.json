@@ -19,15 +19,15 @@
   },
   {
     "full_name": "GoogleCloudPlatform/microservices-demo",
-    "stargazers_count": 21029,
-    "open_issues_count": 73,
-    "forks_count": 10517
+    "stargazers_count": 21032,
+    "open_issues_count": 82,
+    "forks_count": 10526
   },
   {
     "full_name": "tech-systems/panes",
     "stargazers_count": 729,
     "open_issues_count": 31,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "DapperLib/Dapper",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "MontFerret/ferret",
-    "stargazers_count": 6012,
-    "open_issues_count": 12,
-    "forks_count": 325
+    "stargazers_count": 6011,
+    "open_issues_count": 11,
+    "forks_count": 326
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 38724,
+    "stargazers_count": 38745,
     "open_issues_count": 151,
-    "forks_count": 2044
+    "forks_count": 2045
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 35539,
+    "stargazers_count": 35546,
     "open_issues_count": 8,
-    "forks_count": 2199
+    "forks_count": 2197
   },
   {
     "full_name": "vueuse/motion",
     "stargazers_count": 2764,
     "open_issues_count": 50,
-    "forks_count": 94
+    "forks_count": 93
   },
   {
     "full_name": "posva/vue-motion",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 85042,
+    "stargazers_count": 85056,
     "open_issues_count": 31,
-    "forks_count": 26456
+    "forks_count": 26825
   },
   {
     "full_name": "cloudinary-community/cloudinary-laravel",
@@ -116,7 +116,7 @@
   {
     "full_name": "oruga-ui/oruga",
     "stargazers_count": 1161,
-    "open_issues_count": 22,
+    "open_issues_count": 24,
     "forks_count": 167
   },
   {
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "transitive-bullshit/create-react-library",
-    "stargazers_count": 4750,
+    "stargazers_count": 4749,
     "open_issues_count": 125,
-    "forks_count": 289
+    "forks_count": 288
   },
   {
     "full_name": "jbranchaud/til",
-    "stargazers_count": 14152,
+    "stargazers_count": 14153,
     "open_issues_count": 23,
     "forks_count": 753
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 150818,
-    "open_issues_count": 2914,
-    "forks_count": 13852
+    "stargazers_count": 151244,
+    "open_issues_count": 2916,
+    "forks_count": 13879
   },
   {
     "full_name": "jitsi/jigmi",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "hilongjw/vue-progressbar",
-    "stargazers_count": 1446,
+    "stargazers_count": 1441,
     "open_issues_count": 45,
     "forks_count": 157
   },
